@@ -9,6 +9,12 @@ public class Chrome {
 	public void openChrome()
 	{
 		System.out.println("Opening Chrome");
+
+		System.out.println("Hi");
+
+		System.out.println("Hello");
+
+		System.out.println("Bye ");
 	}
 
 }

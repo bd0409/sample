@@ -15,6 +15,13 @@ public class Chrome {
 		System.out.println("Hello");
 
 		System.out.println("Bye ");
+		
+		System.out.println("how was your day");
+		
+		System.out.println("Good Morning");
+		
+		System.out.println(" Good Night");
+		
 	}
 
 }
